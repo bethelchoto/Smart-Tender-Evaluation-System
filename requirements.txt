@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+PyPDF2
+python-dotenv
+cryptography
+tqdm
+numpy
+torch
+transformers
